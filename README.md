@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dynames623
-- 👀 I’m interested in FRONT END DEVELOPMENT
+- 👀 I’m interested in Responsive Web Design/ in future(FRONT END DEVELOPMENT)
 - 🌱 I’m currently learning HTML CSS  /JUST STARTED TO LEARN(MEDIAQUERY JAVA SCRIPT JQUERY)
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS WHERE I CAN LEARN SOMETHING NEW, TO GET SOME EXPERIENCE
 - 📫 How to reach me dymmkka@gmail.com
